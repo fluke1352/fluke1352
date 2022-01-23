@@ -15,6 +15,16 @@
 7.[DocDoc](https://github.com/fluke1352/docdoc) เป็นmobile application ที่พัฒนาโดยใช้ React-native เป็นapplicationแชทกับแพทย์และนัดวันเพื่อเข้าพบแพทย์  
 8.[WebCoconut](https://github.com/fluke1352/WebCoconut) เป็นเว็บคลายเหงาโดยใช้การใส่ข้อความในขวดแล้วทิ้งลงทะเลและใครๆก็จะสามารถอ่านข้อความนั้นได้แต่จะไม่รู้ว่าข้อความนั้นเป็นของใครโดยเว็บนี้พัฒนาโดยใช้หลักการmicroservices
 
+## ตัวอย่างผลงาน
+[WebCoconut](https://youtu.be/UR9MG89r4Ws)  
+[![Click me](https://i9.ytimg.com/vi/UR9MG89r4Ws/mq2.jpg?sqp=CKTrtY8G&rs=AOn4CLDU3f7lc02T-TM35xDmr-B0WafopA)](https://youtu.be/UR9MG89r4Ws)  
+[DocDoc](https://youtu.be/MtHY7Z6pYSU)  
+[![Click me](https://i9.ytimg.com/vi/MtHY7Z6pYSU/mqdefault.jpg?v=61b4978e&sqp=CKTrtY8G&rs=AOn4CLDfAbmAfFJgVla462EPpjGfR1DyVg)](https://youtu.be/MtHY7Z6pYSU)  
+[WanYen](https://youtu.be/jvEHmKhoUWg)  
+[![Click me](https://i9.ytimg.com/vi/jvEHmKhoUWg/mqdefault.jpg?v=5ec01a99&sqp=CKTrtY8G&rs=AOn4CLCfIcldFkH-1WempAwZmYm9SJr8bQ)](https://youtu.be/jvEHmKhoUWg)
+[microcontroller-ultrasonic-sensor](https://youtu.be/wkeyyy1Nvvw)  
+[![Click me](https://i9.ytimg.com/vi_webp/wkeyyy1Nvvw/mqdefault.webp?v=5eb3f126&sqp=CKTrtY8G&rs=AOn4CLC8pY6TCwGofCBIGgdpqmnCSRS-dg)](https://youtu.be/wkeyyy1Nvvw)
+
 
 <!--
 **fluke1352/fluke1352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
