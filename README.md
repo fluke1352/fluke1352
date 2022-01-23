@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi I'am Jirayu Tubtimtong 👋  
+สวัสดีครับผมชื่อฟลุ๊คเพื่อนๆเรียกกันว่า"ฟลุ๊คโต๋ลงมาต๋อม"ตอนนี้ผมเป็นนักศึกษาชันปีที่3ที่[KMITL](https://www.kmitl.ac.th/)ผมศึกษาทางด้าน IT และสิ่งที่ผมสนใจทางด้านนี้คือ Web Application, Mobile Application, Image Processing และ IOT ครับ
+
+## Skill :seedling:
+<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
 
 <!--
 **fluke1352/fluke1352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
