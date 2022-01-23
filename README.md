@@ -5,7 +5,7 @@
 <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
 
-## In Class Projects
+## In Class Projects :man_student:
 1.[makrub](https://github.com/fluke1352/makrub) เป็นโปรเจคตอนปีที่ 1 ของช่วงมหาลัย และเป็นโปรเจคแรกที่ได้ทำร่วมกับเพื่อนๆ ซึ่งโปรเจคนี้เกี่ยวกับ การแสกนใบหน้าเพื่อเช็คชื่อเข้าเรียนโดย ใช้pythonเขียนทั้งหมด  
 2.[WanYen](https://github.com/fluke1352/WanYen) เป็นโปรเจคที่ทำทางด้าน multimedia โดยใช้ความรู้ทางด้าน SVG HTML และ CSS  
 3.[microcontroller-ultrasonic-sensor](https://github.com/fluke1352/microcontroller-ultrasonic-sensor) เป็นโปรเจคที่ได้ลองเขียนบอร์ด arduino เป็นครั้งแรกโดยใช้ภาษา C ในการเขียน  
@@ -15,7 +15,7 @@
 7.[DocDoc](https://github.com/fluke1352/docdoc) เป็นmobile application ที่พัฒนาโดยใช้ React-native เป็นapplicationแชทกับแพทย์และนัดวันเพื่อเข้าพบแพทย์  
 8.[WebCoconut](https://github.com/fluke1352/WebCoconut) เป็นเว็บคลายเหงาโดยใช้การใส่ข้อความในขวดแล้วทิ้งลงทะเลและใครๆก็จะสามารถอ่านข้อความนั้นได้แต่จะไม่รู้ว่าข้อความนั้นเป็นของใครโดยเว็บนี้พัฒนาโดยใช้หลักการmicroservices
 
-## ตัวอย่างผลงาน
+## ตัวอย่างผลงาน :film_strip:
 <!-- <div align="left">
   <a href="https://youtu.be/UR9MG89r4Ws">WebCoconut</a> <br>
   <a href="https://youtu.be/UR9MG89r4Ws"><img src="https://i9.ytimg.com/vi/UR9MG89r4Ws/mq2.jpg?sqp=CKTrtY8G&rs=AOn4CLDU3f7lc02T-TM35xDmr-B0WafopA"></a>
@@ -26,13 +26,13 @@
 </div>
 
  -->
-[WebCoconut](https://youtu.be/UR9MG89r4Ws)  
+[:palm_tree: WebCoconut :palm_tree:](https://youtu.be/UR9MG89r4Ws)  
 [![Click me](https://i9.ytimg.com/vi/UR9MG89r4Ws/mq2.jpg?sqp=CKTrtY8G&rs=AOn4CLDU3f7lc02T-TM35xDmr-B0WafopA)](https://youtu.be/UR9MG89r4Ws)  
-[DocDoc](https://youtu.be/MtHY7Z6pYSU)  
+[:man_health_worker: DocDoc :woman_health_worker:](https://youtu.be/MtHY7Z6pYSU)  
 [![Click me](https://i9.ytimg.com/vi/MtHY7Z6pYSU/mqdefault.jpg?v=61b4978e&sqp=CKTrtY8G&rs=AOn4CLDfAbmAfFJgVla462EPpjGfR1DyVg)](https://youtu.be/MtHY7Z6pYSU)  
-[WanYen](https://youtu.be/jvEHmKhoUWg)  
+[:boat: WanYen :boat:](https://youtu.be/jvEHmKhoUWg)  
 [![Click me](https://i9.ytimg.com/vi/jvEHmKhoUWg/mqdefault.jpg?v=5ec01a99&sqp=CKTrtY8G&rs=AOn4CLCfIcldFkH-1WempAwZmYm9SJr8bQ)](https://youtu.be/jvEHmKhoUWg)  
-[microcontroller-ultrasonic-sensor](https://youtu.be/wkeyyy1Nvvw)  
+[:straight_ruler: microcontroller-ultrasonic-sensor :straight_ruler:](https://youtu.be/wkeyyy1Nvvw)  
 [![Click me](https://i9.ytimg.com/vi_webp/wkeyyy1Nvvw/mqdefault.webp?v=5eb3f126&sqp=CKTrtY8G&rs=AOn4CLC8pY6TCwGofCBIGgdpqmnCSRS-dg)](https://youtu.be/wkeyyy1Nvvw)
 
 
