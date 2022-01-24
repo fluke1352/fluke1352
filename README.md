@@ -27,13 +27,13 @@
 
  -->
 ### [:palm_tree: WebCoconut :palm_tree:](https://youtu.be/UR9MG89r4Ws)  
-[![Click me](https://i9.ytimg.com/vi/UR9MG89r4Ws/mq2.jpg?sqp=CKTrtY8G&rs=AOn4CLDU3f7lc02T-TM35xDmr-B0WafopA)](https://youtu.be/UR9MG89r4Ws)    
+[![Click me](https://media.discordapp.net/attachments/804035716156883004/935057792652435476/mq2.png)](https://youtu.be/UR9MG89r4Ws)    
 ### [:man_health_worker: DocDoc :woman_health_worker:](https://youtu.be/MtHY7Z6pYSU)  
-[![Click me](https://i9.ytimg.com/vi/MtHY7Z6pYSU/mqdefault.jpg?v=61b4978e&sqp=CKTrtY8G&rs=AOn4CLDfAbmAfFJgVla462EPpjGfR1DyVg)](https://youtu.be/MtHY7Z6pYSU)    
+[![Click me](https://media.discordapp.net/attachments/804035716156883004/935057823669301258/mqdefault.png)](https://youtu.be/MtHY7Z6pYSU)    
 ### [:boat: WanYen :boat:](https://youtu.be/jvEHmKhoUWg)  
-[![Click me](https://i9.ytimg.com/vi/jvEHmKhoUWg/mqdefault.jpg?v=5ec01a99&sqp=CKTrtY8G&rs=AOn4CLCfIcldFkH-1WempAwZmYm9SJr8bQ)](https://youtu.be/jvEHmKhoUWg)    
+[![Click me](https://media.discordapp.net/attachments/804035716156883004/935057903084261456/mqdefault.png)](https://youtu.be/jvEHmKhoUWg)    
 ### [:straight_ruler: microcontroller-ultrasonic-sensor :straight_ruler:](https://youtu.be/wkeyyy1Nvvw)  
-[![Click me](https://i9.ytimg.com/vi_webp/wkeyyy1Nvvw/mqdefault.webp?v=5eb3f126&sqp=CKTrtY8G&rs=AOn4CLC8pY6TCwGofCBIGgdpqmnCSRS-dg)](https://youtu.be/wkeyyy1Nvvw)
+[![Click me](https://media.discordapp.net/attachments/804035716156883004/935058006687764541/mqdefault.png)](https://youtu.be/wkeyyy1Nvvw)
 
 
 <!--
